@@ -5,5 +5,7 @@ We developed Hi-Corrector, an easy-to-use, open source implementation of the Hi-
 
 **Availability and implementation:** The sequential version is implemented in ANSI C and can be easily compiled on any system; the parallel version is implemented in ANSI C with the MPI library (a standardized and portable parallel environment designed for solving large-scale scientific problems).
 
+**Version:** 1.2. 
+
 **Please cite the reference:**
 Wenyuan Li, Ke Gong, Qingjiao Li, Frank Alber, and Xianghong Jasmine Zhou (2015). *Hi-Corrector: a fast, scalable and memory-efficient package for normalizing large-scale Hi-C data.* Bioinformatics, 2015 Mar; 31(6):960-2.
